@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=voenabler
+name=Vo Enabler
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Toucan
+description=Adds settings to build.prop to enable both VoLTE and VoWifi
 template=4
