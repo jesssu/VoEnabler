@@ -15,5 +15,5 @@ persist.dbg.ims_volte_enable=1
 
 ## Changelog
 2017-08-02 (v1.1): Removed "persist.data.iwlan.enable=true" as this was reported to break WiFi calling on some carriers.
-2017-08-01 (v1): Switched from using service.sh to system.prop
-2017-07-31 (Beta): Initial commit.
+<br>2017-08-01 (v1): Switched from using service.sh to system.prop
+<br>2017-07-31 (Beta): Initial commit.
