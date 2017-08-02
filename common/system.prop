@@ -8,7 +8,8 @@ persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
 # Data Options
-persist.data.iwlan.enable=true 
+# Commented this line out as it was reported to break WiFi calling on some carriers. Not even sure if it's required to begin with.
+#persist.data.iwlan.enable=true 
 
 # Radio Options
 persist.radio.rat_on=combine
