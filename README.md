@@ -1,7 +1,9 @@
 ## VoEnabler
-This module tries to enable VoLTE and VoWiFi by editing `build.prop`.
+This module enables the VoLTE and VoWiFi options by editing `build.prop`.
 
 **Important:** VoLTE/VoWiFi will not work if your carrier doesn't support it, even if you install this module.
+
+XDA Thread: (here)[https://forum.xda-developers.com/apps/magisk/module-v4-volte-enabler-t3649613]
 
 ## What does this module change?
 persist.dbg.ims_volte_enable=1 
